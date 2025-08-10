@@ -1,4 +1,4 @@
-# Petals × LLaMA-2-70B — Distributed Inference + Prompt Tuning over the Internet
+# Petals × LLaMA-2-70B — Decentralised Inference + Prompt Tuning over the Internet
 
 Running **LLaMA-2-70B** on a global **Petals** swarm for inference, and performing **prompt tuning** via swarm model-parallelism. This repo is a concise overview with links to full write-ups and exact commands.
 
